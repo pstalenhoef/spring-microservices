@@ -1,9 +1,10 @@
 ---
-server:
-  port: 8081 
 spring:
   application:
     name: spring-cloud-demo
   cloud:
     config:
-      uri: http://localhost:8001          
+      uri: http://localhost:8080
+server:
+  port: 8081 
+      
