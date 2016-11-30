@@ -4,6 +4,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/kennyk65/Microservices-With-Spring-Student-Files
-          searchPaths: ConfigData
+          uri: https://github.com/pstalenhoef/spring-microservices
+          searchPaths: config-data
           
