@@ -5,4 +5,4 @@ eureka:
       defaultZone: http://localhost:8010/eureka/
 words: I,You,He,She,It
 server:
-  port: ${PORT:${SERVER_PORT:0}} (this will cause a random, unused port to be assigned if none is specified)
+  port: ${PORT:${SERVER_PORT:0}}
