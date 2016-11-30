@@ -34,7 +34,7 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
-	
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
@@ -54,6 +54,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
 
 </project>
