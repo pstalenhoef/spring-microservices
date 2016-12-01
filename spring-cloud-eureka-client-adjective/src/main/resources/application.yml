@@ -1,8 +1,4 @@
 ---
-spring:
-  cloud:
-    config:
-      uri: http://localhost:8080
 words: reasonable,leaky,suspicious,ordinary,unlikely
 server:
   port: ${PORT:${SERVER_PORT:0}}
