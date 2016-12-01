@@ -1,7 +1,7 @@
 ---
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8010/eureka/
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8080
 server:
   port: 8020
