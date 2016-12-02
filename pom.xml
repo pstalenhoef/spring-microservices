@@ -17,16 +17,16 @@
 	</parent>
 
 	<modules>
-		<module>spring-cloud-config-client</module>				
-		<module>spring-cloud-config-server</module>
-		<module>spring-cloud-eureka</module>	
-		<module>spring-cloud-eureka-client</module>	
-		<module>spring-cloud-eureka-client-adjective</module>	
-		<module>spring-cloud-eureka-client-article</module>	
-		<module>spring-cloud-eureka-client-noun</module>	
-		<module>spring-cloud-eureka-client-sentence</module>	
-		<module>spring-cloud-eureka-client-subject</module>	
-		<module>spring-cloud-eureka-client-verb</module>	
+		<module>lab-3/spring-cloud-config-client</module>				
+		<module>lab-3/spring-cloud-config-server</module>
+		<module>lab-4/spring-cloud-eureka-server</module>	
+		<module>lab-4/spring-cloud-eureka-client</module>	
+		<module>lab-4/spring-cloud-eureka-client-adjective</module>	
+		<module>lab-4/spring-cloud-eureka-client-article</module>	
+		<module>lab-4/spring-cloud-eureka-client-noun</module>	
+		<module>lab-4/spring-cloud-eureka-client-sentence</module>	
+		<module>lab-4/spring-cloud-eureka-client-subject</module>	
+		<module>lab-4/spring-cloud-eureka-client-verb</module>	
 	</modules>
 
 </project>
