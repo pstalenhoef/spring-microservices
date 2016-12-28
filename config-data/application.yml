@@ -9,33 +9,33 @@ eureka:
 spring:
   profiles: subject
   application:
-	name: subject
+    name: subject
 words: I,You,He,She,It
 
 ---
 spring:
   profiles: verb
   application:
-	name: verb
+    name: verb
 words: ran,knew,had,saw,bought
 
 ---
 spring:
   profiles: article
   application:
-	name: article
+  name: article
 words: a,the
 
 ---
 spring:
   profiles: adjective
   application:
-	name: adjective
+    name: adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
 spring:
   profiles: noun
   application:
-	name: noun
+    name: noun
 words: boat,book,vote,seat,backpack,partition,groundhog
